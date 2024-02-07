@@ -9,6 +9,16 @@ const WeddingParty = () => {
         {/* Wedding party members */}
         <div>
           <img src="https://via.placeholder.com/100" alt="Member Name" />
+          <p>Parks Peters</p>
+          <p>Officiant | Gay of Honor</p>
+        </div>
+        <div>
+          <img src="https://via.placeholder.com/100" alt="Member Name" />
+          <p>Member Name</p>
+          <p>Role</p>
+        </div>
+        <div>
+          <img src="https://via.placeholder.com/100" alt="Member Name" />
           <p>Member Name</p>
           <p>Role</p>
         </div>
